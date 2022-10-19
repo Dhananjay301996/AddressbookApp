@@ -1,5 +1,6 @@
 package com.bridgelabz.addressbookapp.dto;
 
+
 public class UserDTO {
     private String firstName;
     private String lastName;
